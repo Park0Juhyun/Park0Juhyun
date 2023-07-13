@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Park0Juhyun
+- 👋 Hello, I’m @Park0Juhyun
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning SSAFY
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💕 I’m currently learning SSAFY
+- Just started my first step as a computer programmer🌱
+- Can't wait to learn new things🚀
 
 <!---
 Park0Juhyun/Park0Juhyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
